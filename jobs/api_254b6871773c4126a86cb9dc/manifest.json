@@ -1,0 +1,47 @@
+{
+  "job_id": "api_254b6871773c4126a86cb9dc",
+  "mode": "zip_split",
+  "file_url": "https://free-dl4.myalphadl.com/2Rax88LntPxyqxOeCkCfeQ/Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL.mp4",
+  "suggested_filename": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL.mp4",
+  "total_size_bytes": 651687588,
+  "created_at_utc": "2026-05-26T12:59:13.569876+00:00",
+  "zip_folder": "jobs/api_254b6871773c4126a86cb9dc/zip",
+  "zip_main_file": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z01",
+      "path": "jobs/api_254b6871773c4126a86cb9dc/zip/Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z02",
+      "path": "jobs/api_254b6871773c4126a86cb9dc/zip/Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z03",
+      "path": "jobs/api_254b6871773c4126a86cb9dc/zip/Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z04",
+      "path": "jobs/api_254b6871773c4126a86cb9dc/zip/Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z05",
+      "path": "jobs/api_254b6871773c4126a86cb9dc/zip/Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z06",
+      "path": "jobs/api_254b6871773c4126a86cb9dc/zip/Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.zip",
+      "path": "jobs/api_254b6871773c4126a86cb9dc/zip/Mickey.Donald.Goofy.The.Three.M.2004.720p.BluRay.YTS.AlphaDL_split.zip",
+      "size_bytes": 85456830
+    }
+  ]
+}
